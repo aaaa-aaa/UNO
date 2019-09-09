@@ -18,3 +18,6 @@ Another note:
 We did not add code accounting for if both the draw pile and the discard pile (except the top) runs out, as in a real game,
 this situation would not happen as players would be trying to get rid of their cards instead of keeping them in their hands.
 Also, there is nothing in the official rulebook that explains what to do in this situation.
+
+Made By:
+Anan Aramthanapon and Jackson Fiala
